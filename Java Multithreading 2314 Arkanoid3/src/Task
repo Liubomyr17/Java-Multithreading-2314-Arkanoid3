@@ -1,0 +1,8 @@
+2413 Arkanoid 3
+
+Perhaps it's time to add a constructor to the Arkanoid class.
+The constructor must accept two parameters of type int (width and height) and correctly set the values of the corresponding fields of the class.
+
+Requirements:
+1. In the Arkanoid class, a public constructor with two parameters of type int must be created.
+2. The constructor of the Arkanoid class must correctly set the values of the corresponding fields of the class.
